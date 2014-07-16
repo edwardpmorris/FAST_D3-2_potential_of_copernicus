@@ -3,6 +3,8 @@ FAST_D3-2_potential_of_copernicus
 
 FAST project Deliverable 3.2: Popular article about Copernicus coastal services
 
+## File structure
+
 + `README.md` is this explanation.
 + `report/` contains the source text for the manuscript and figures, the bibliography (.bib, BibTeX) and the citation style (.csl).
 + `figures/` contains plots, images and graphics.
@@ -22,7 +24,7 @@ FAST project Deliverable 3.2: Popular article about Copernicus coastal services
 1. Open `Makefile.R` in Rstudio.
 1. Change the working directory path to your system.
 1. Optionally run the command to download the latest bibliography from Zotero.
-1. Run the command to render the report and figures.
+1. Run the command to render the report in `.html`, `.pdf` and `.docx` format, and figures as `.pdf`.
 
 ## Bibliography management
 
