@@ -1,0 +1,151 @@
+---
+title: 'Copernicus Coastal Services: Supporting nature-based coastal protection'
+author: "Edward P. Morris, Jesus Gomez-Enri, Daphne van der Wal"
+date: '`r date()` version 0.2'
+output:
+  pdf_document:
+    latex_engine: xelatex
+  html_document:
+    theme: readable
+  word_document: default
+bibliography: bibliography.bib
+---
+
+
+-----------------------------------------------------------------
+  Authors           Modification        Issue           Date
+----------------  ------------------- ------------- -------------
+ EPM, DVW, JGE      Keyword titles       0.1          2014-06-01
+ 
+ EPM, DVW, JGE      1st draft            0.2          2014-07-16
+-----------------------------------------------------------------
+  
+Table: Document change record
+
+### Scope of document
+
+AIM: Generate interest in the Copernicus Earth Observation programme. Highlight it's potential for generating knowledge based services. Introduce the FAST project and how Copernicus can aid coastal protection. Inspire. Promote.
+
+TARGET AUDIENCE: Industry experts, public, scientists, managers and policy makers.
+
+NOTES: Relatively simple language, demonstration of concepts/potential, nice graphics, approx. 2000 words, suitable for websites.
+
+POSSIBLE OUTLETS: [Sea Technology](https://www.sea-technology.com/), [Horizon Magazine](http://horizon-magazine.eu), [International Innovation](http://www.research-europe.com/index.php/international-innovation) 
+
+---
+
+## Abstract
+
+## What is Copernicus?
+<!-- Define Copernicus --->
+Europe's flagship Earth Observation (EO) programme known as [Copernicus](http://www.copernicus.eu/) (previously Global Monitoring for Environment and Security – GMES), is an EU-led initiative in partnership with the European Space Agency (ESA) [@science_communication_unit_science_2013].
+It represents a major contribution of the European Commission to the collaboration with 88 participating governments to build a worldwide network of EO systems – a Global Earth Observation System of Systems (GEOSS).
+<!-- Define aim of Copernicus --->
+The overall aim of Copernicus is to aid decision-making in a world facing increasing environmental and socioeconomic pressures; inform global, EU, national and local level environmental policymaking, support environmental monitoring, policy evaluation, modelling, forecasting and reporting, and improve the overall quality of life of European citizens.
+
+<!-- Describe time-scale and structure of Copernicus --->
+The idea originated during a meeting between the European Commission and European space industry representatives in Baveno, Italy, in May 1998 [@brachet_initial_2004].
+After much discusion and planning, Copernicus is a reality, with some services already operational and the launch of the first Sentinel satelites.
+
+The space component (observation satellites and associated ground segment with missions observing land, atmospheric and oceanographic parameters) comprises two types of satellite missions, [ESA's five families of dedicated Sentinel](https://sentinel.esa.int/web/sentinel/home) (Fig. 1) and missions from other space agencies, called Contributing Missions.
+
+[Figure 1. The Sentinel missions mark a new era in Earth observation focusing on delivering a wealth of operational data for decades to come. The six different missions carry a range of state-of-the-art technologies to supply a stream of complementary imagery and data tailored to the needs of Europe’s environmental monitoring Copernicus programme. Copyright: [ESA](http://www.esa.int/spaceinimages/Images/2014/04/Sentinel_family)](figures/Sentinel_family_ESA.jpg)
+
+However, Copernicus is not only the space component, it is solidly built upon three other equally  important pillars:
+In-situ measurements (ground-based and airborne data gathering networks providing information on oceans, continental surface and atmosphere).
+Data harmonization and standardization, and the provision of products and services to users.
+
+The general services provided by Copernicus address [six main thematic areas](http://www.copernicus.eu/pages-principales/services/): Land Monitoring, Marine Environment Monitoring, Atmosphere Monitoring, Emergency Management, Security and Climate Change. The land and emergency services are already operational, the marine and atmosphere pre-operational, and the other services in the later stages of development.
+Common to all is the concept of effective end-user involvement and continuous evolution, similar in concept to an "agile development process".  
+
+> "Copernicus should be user-driven, thus requiring the continuous, effective involvement of users, particularly regarding the definition and validation of service requirements" [@european_parliament_council_of_the_european_union_regulation_2014].
+
+<!-- Sentinel data will be free. How can that be? --->
+Finally, in common with the NASA/USGS Landsat missions, access to Sentinel data is open, full and free to all without restrictions.
+This decision, very much appreciated by end-users, is part of the business strategy designed to ensure the long term sustainability of Copernicus. 
+The idea is that promoting reuse of data will generate new businesses and jobs, whilst providing consumers with more choice and more value for money [@sawyer_about_2012].
+These value-added benifits will lead to a higher return, some reports suggest up to 10 times, on the money invested in the programme, contributing to sustainable growth [of highly skilled sectors] within Europe.
+A keystone of this strategy is stimulating the development of innovative, user-driven, down-stream services [by Citizens, SMEs]  [that have the potential for marketing]. 
+
+A solid representation of this entrepreneural spirit is the highly sucsessful [Copernicus Masters Initiative](http://www.copernicus-masters.com), which provides support and awards prizes to innovative solutions for business and society based on Earth observation data.
+Those in the EO midstream market (such as resellers) need not despair either, the upsurge in interest in EO data, the market for Contributing Missions, and the potential for new services, all suggests a broadly positive net impact on the sector, including an appreciable increase in employment [@european_commission_european_2013].
+
+> “GMES [Copernicus] may well be Europe’s goose capable of laying golden eggs. But how can we ensure a steady sustainable business model: do we take one egg (direct returns from sales of data) or do we allow the egg to hatch, hoping more golden-egg-laying geese will follow?” [@sawyer_about_2012] 
+
+## Towards innovative services tailored to coastal zones
+<!-- Copernicus and coastal zones --->
+In coastal zones, with an uncertain future that includes climate change, sea level rise, increasing coastal populations, [migration and increasing pressure to wisely manage natural resources] the Copernicus program has a strong potenial to aid knowledge-based decision-making in numerous sectors.
+
+<!-- Copernicus generic services useful for coastal zones --->
+The pre-operational marine service (developed by the [MyOcean project](http://www.myocean.eu)) already integrates in situ, satelite and modelling data to provide detailed, near real-time information on  marine physio-chemical variables at global, regional and local scales.
+The land service provides detailed information on land use types, water bodies and digital elevation.
+Meterolgical and climate forcing information is available from the atmosphere monitoring and climate services.
+Rapid responses to emergencies is also already in action from the emergency planning service and further services such as the [European Flood Awareness System](https://www.efas.eu)) and those related to security are under development.
+
+<!-- Copernicus value-added services specific for coastal zones --->
+The opportunities for synergistic development of these generic services to provide value-added, user-specific services in coastal zones are unlimited.
+For example, [ASIMUTH](http://www.asimuth.eu) is well on the way to developing a marine toxic algal bloom early warning system for the aquaculture and fisheries industries that will contribute to food security/safety.
+OTHER EXAMPLES [SHIP MONITORING?].   
+
+## Coastal protection and risk management 
+<!-- Importance of coastal protection/risk management --->
+A sector of growing interest, where Copernicus can potentially make a real impact, is coastal risk management and protection of coastal populations/assets.
+Recent natural disasters, such as hurricane Sandy [LIST EXAMPLES], have firmly underlined the very real human and economic costs of coastal flooding.
+Studies suggest that the future global economic impacts of sea-level rise and changing climate will be significant [@hallegatte_future_2013].
+This suggests assessing the risks and providing innovative solutions to mitigate these risks is going to be very valuable.
+
+<!-- Projects looking at coastal protection/risk management --->
+Indeed a number of international and national agencies have launched specific initiatives related to flood risks and coastal protection, see for example [FEMA: Coastal Flood Risks](http://www.fema.gov/coastal-flood-risks-achieving-resilience-together) and [The European Commision: Flood Risks](http://ec.europa.eu/environment/water/flood_risk/index.htm).
+In Europe, these have been shaped by projects such as [Eurosion](http://www.eurosion.org/), [Micore](https://www.micore.eu/) and [THESEUS](http://www.theseusproject.eu/), to name but a few, and will continue to be shaped by ongoing projects such as [RISCKIT](http://www.risckit.eu) and [PEARL](http://www.pearl-fp7.eu/). 
+
+Specifically related to Copernicus, [FAST: Foreshore Asessement using Space Technology](http://www.fast-space-project.eu/) led Dr. Mindert de Vries of the Dutch independent institute for applied research [Deltares](http://www.deltares.nl/en/) is focussing on the development of down-stream services to support cost-effective, nature-based shoreline protection against flooding and erosion.
+
+<!-- Using vegetated foreshores for protection against flooding and erosion ---> 
+Vegetated foreshores, such as tidal marshes and mangroves, naturally defend against coastal flooding and erosion [@temmerman_ecosystem-based_2013].
+This means natural coastal ecosystems can play an important role in reducing flood risks, and are increasingly becoming part of cost-effective flood defence solutions.
+
+> "Large tidal marshes or mangroves between the city and the sea provides extra water storage areas and friction, which attenuates the landward propagation of storm surges and reduces flood risks in the densely populated hinterland" [@temmerman_ecosystem-based_2013].
+
+##  Down-stream services to support nature-based shoreline protection
+
+<!-- Why the need for FAST? which gaps will FAST fill? --->
+To facilitate the widespread implementation nature-based shoreline protection however, we need to; 1) be able to map in detail coastal habitats at the appropriate spatio-temporal scales, 2) understand the mechanisms by which different vegetation types interact with waves, storm surges and sediment dynamics, and 3) be able to easily include this information in flood defence schemes.
+
+Coastal habitat types and structure are important because the water storage and friction capactity of different habitats are related to their structural properties; for example large, woody mangrove trees have very different energy attenuation properties compared to small, sparse tidal marsh plants.
+The position of a habitat type in relation to tidal elevation, does it occur in the low or high intertidal, is also critical to deciding its impact in different hydrodynamic scenarios. 
+Togther these factors are also important in determining long-term sediment dynamics and thus feedback on intertidal elevation.
+
+A number of studies have examined the mechanisms by which vegetation interacts with hydrodynamics, and in particular tidal marshes and wave attenuation [@shepard_protective_2011], however the critial biophysical properties of the habitats responsible for attenuation are not always clear and few have examined the protective function of these ecosystems under extreme storm conditions [@bouma_identifying_2014]. 
+
+<!-- The FAST service --->
+Hence, although a large amount of information exists, translating this into a product that can be used in evaluating flood defence/coastal protection schemes is presently complex.
+This is the essence of the proposed service FAST is developing; make it reliable and easy for end-users to include ecosystem engineering concepts into coastal protection designs. 
+
+> [QUOTE FROM MINDERT: One-liner what will fast do?] "FAST aims to offer tailor made services that will help end-users to include nature-based solutions into coastal protection schemes" Mindert de Vries, Project Leader FAST. 
+
+<!-- How will FAST develop this service? --->
+
+[EPM: Maybe this could go in an info. box]
+
+### The FAST approach
+
+How will the FAST consortium develop this service? The team, made up of experts in earth observation, hydrodynamics, coastal ecosystems, modelling and product development, have 3 major tasks to complete: 
+
+1) The biophysical characteristics of coastal wetlands need to be linked to wave attenuation, allowing standardised generic parameters to be used to predict the attenuation properties of different vegated habitats. For this measurements of wave attenuation, led by Dr. Iris Möller, Univ. Cambridge, are being made in different marshes throughout Europe.
+
+2) Refine and develop techniques for the classification of coastal habitats and the quantification of biophysical parameters using the Sentinel satelites. Sentinel 1 (C-band SAR, S1) and Sentinel 2 (very-high-resolution, multispectral, S2) have been selected as the perfect candidates to derive the array of parameters potentially relevant to wave attenuation (Fig. X) [EPM: note sure if these parameters need more explanation, the diagram says it all?]. Recent studies using SAR airborne SAR overtidal marshes [@van_beijma_random_2014] and Dr Daphne van de Wal's previous work in intertidal areas [@van_der_wal_spatial_2008], suggest great potential for improved parameter extraction using synergies of radar and optical data.
+
+3) The modelling team of Deltares and the business internationisation team of the Uniz. Cadiz have the task of translating the biophysical properties derived from the Copernicus Sentinels into impacts on engineering requirements for flood safety infrastructure, and packaging all this know-how into a user-friendly, self-sustaining service (currently code-named MI-SAFE). Key to this process is ensuring strong end-user involvement and a user-driven approach to product design, which is being led by Gloria Peralta and Jose Sanchez, Univ. Cádiz, an expert in the creation of start-ups.   
+
+[Figure 2. Flow chart representing potential parameters derived from the Sentinels 1 and 2 for use in the development of the FAST down-stream service. Image: [van der Wal et al. 2014](http://rodin.uca.es/xmlui/handle/10498/16264)](figures/FAST_process_diagram.png)
+
+<!-- Who will benefit from Copernicus services in coastal zones? --->
+
+The potential benificiaries of Copernicus down-stream services tailored to coastal zones, such as the FAST service to aid nature-based shoreline protection, range from small to medium enterprises, such as consultancies and engineering firms to environmental NGOs and governemental agencies.
+All of which stand to gain advantages in terms of cost-reductions and efficiency due to improvements in data gathering and decision making. Overall these benefits should be passed on to Citizens as increased value for money and improvements in safety and well being.
+In the near future, growth in the availability of Earth Observation data is going to be exponential, thus the only limit on accessing the vast potential of Copernicus to stimulate knowledge-based services in coastal zones, is our own ingenuity. 
+
+<!-- Contact details --->
+If you would like to hear more about the development of the FAST project follow us [Twitter](https://twitter.com/FP7FAST/) or [Facebook](http://www.facebook.com/FastSpaceProject/).
+
+## References
