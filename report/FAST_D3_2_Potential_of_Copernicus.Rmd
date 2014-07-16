@@ -4,11 +4,16 @@ author: "Edward P. Morris, Jesus Gomez-Enri, Daphne van der Wal"
 date: '`r date()` version 0.2'
 output:
   pdf_document:
+    includes:
+      in_header: config/preamble.tex
     latex_engine: xelatex
   html_document:
     theme: readable
-  word_document: default
+  word_document:
+    reference_docx: config/reference.docx
 bibliography: bibliography.bib
+fontsize: 11pt
+geometry: margin=1in
 ---
 
 
