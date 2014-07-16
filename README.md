@@ -3,12 +3,11 @@ FAST_D3-2_potential_of_copernicus
 
 FAST project Deliverable 3.2: Popular article about Copernicus coastal services
 
-`README.md` is this explanation.
-`report/` contains the source text for the manuscript and figures.
-`figures/` contains plots, images and graphics.
-`Makefile.R` is an R script for compile the report.
-
-ignore `.gitignore` and `LICENSE`
++ `README.md` is this explanation.
++ `report/` contains the source text for the manuscript and figures, the bibliography (.bib, BibTeX) and the citation style (.csl).
++ `figures/` contains plots, images and graphics.
++ `Makefile.R` is an R script for compile the report.
++ ignore `.gitignore` and `LICENSE`
 
 
 ## To compile this report requires:
@@ -27,4 +26,4 @@ ignore `.gitignore` and `LICENSE`
 
 ## Bibliography management
 
-A group bibliography has been created [here](https://www.zotero.org/groups/fast_d3-2_potential_of_copernicus). To add and edit citations you need to create an account on Zotero and request membership to the group. Compiling the report automatically downloads the ciatation list from the zotero group library into the `report/.bib` file. In text citations are made using the [pandoc/rmarkdown syntax](http://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html)
+A group bibliography has been created [here](https://www.zotero.org/groups/fast_d3-2_potential_of_copernicus). To add and edit citeations you need to create an account on Zotero and request membership to the group. Compiling the report automatically downloads the ciatation list from the zotero group library into the `report/.bib` file. In text citations are made using [pandoc/rmarkdown syntax](http://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html) ; e.g., `[@first-author-surname_first-word-title_year-publication]`.
