@@ -125,7 +125,7 @@ This is the essence of the proposed service FAST is developing; make it reliable
 
 <!-- How will FAST develop this service? --->
 
-[EPM: Maybe this could go in an info. box]
+[EPM: Maybe section this could go in an info. box]
 
 ### The FAST approach
 
