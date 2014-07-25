@@ -8,7 +8,7 @@ bibz <- system("curl -H 'Zotero-API-Version: 2' 'https://api.zotero.org/groups/2
 writeLines(bibz, "report/bibliography.bib")
 
 # set doc name [NOT WORKING]
-vers <- "0-2" # change this as versions change!
+vers <- "0-3" # change this as versions change!
 out_name <- paste("FAST_D3-2_v", vers,sep="")
 
 # render rport
