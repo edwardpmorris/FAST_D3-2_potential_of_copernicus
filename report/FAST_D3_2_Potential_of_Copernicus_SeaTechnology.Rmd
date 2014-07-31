@@ -78,19 +78,13 @@ In common with the NASA/USGS Landsat missions, access to Sentinel data is open, 
 This decision, very much appreciated by end-users, is part of the strategy designed to ensure the long term sustainability of Copernicus. 
 The idea is that promoting reuse of data will generate new businesses and jobs, whilst providing consumers with more choice and more value for money [@sawyer_about_2012].
 
-> “GMES [Copernicus] may well be Europe’s goose capable of laying golden eggs. But how can we ensure a steady sustainable business model: do we take one egg (direct returns from sales of data) or do we allow the egg to hatch, hoping more golden-egg-laying geese will follow?” [@sawyer_about_2012] 
-
-[JGE: Suggest use a better figure, maybe something with time-line. ACTION; look for better figure or make one.]
-
 [Figure 1. The Sentinel missions mark a new era in Earth observation focusing on delivering a wealth of operational data for decades to come. The six different missions carry a range of state-of-the-art technologies to supply a stream of complementary imagery and data tailored to the needs of Europe’s environmental monitoring Copernicus programme. Copyright: [ESA](http://www.esa.int/spaceinimages/Images/2014/04/Sentinel_family)](figures/Sentinel_family_ESA.jpg)
 
 Following this strategy, Copernicus is not only the space component, it is solidly built upon three other equally  important pillars; in-situ measurements (ground-based and airborne data), data harmonization and standardization, and the provision of products and services to users.
 
-The general services provided by Copernicus address [six main thematic areas](http://www.copernicus.eu/pages-principales/services/): Land Monitoring, Marine Environment Monitoring, Atmosphere Monitoring, Emergency Management, Security and Climate Change.
+The general services provided by Copernicus address [six main thematic areas](http://www.copernicus.eu/pages-principales/services/): Land, Marine, Atmosphere, Emergency Management, Security and Climate Change.
 The land and emergency services are already operational, the marine and atmosphere pre-operational, and the other services in the later stages of development.
 Common to the development of all these services is the concept of effective end-user involvement and continuous evolution, i.e., an approach similar to an "agile development process".  
-
-> "Copernicus should be user-driven, thus requiring the continuous, effective involvement of users, particularly regarding the definition and validation of service requirements" [@european_parliament_council_of_the_european_union_regulation_2014].
 
 ## Towards innovative services tailored to coastal zones
 <!-- Copernicus generic services useful for coastal zones --->
@@ -121,8 +115,6 @@ Filling a specific niche within Copernicus, is [FAST: Foreshore Assessement usin
 <!-- Using vegetated foreshores for protection against flooding and erosion ---> 
 Vegetated foreshores, such as tidal marshes and mangroves, naturally defend against coastal flooding and erosion [@temmerman_ecosystem-based_2013].
 This means natural coastal ecosystems can play an important role in reducing flood risks, and are increasingly becoming part of cost-effective flood defense solutions [@han_winterwerp_sustainable_2014].
-
-> "Large tidal marshes or mangroves between the city and the sea provides extra water storage areas and friction, which attenuates the landward propagation of storm surges and reduces flood risks in the densely populated hinterland" [@temmerman_ecosystem-based_2013].
 
 <!-- Why the need for FAST? which gaps will FAST fill? --->
 The water storage and friction capacity of different habitats is related to their structural properties; for example large, woody mangrove trees have very different energy attenuation properties compared to small, sparse tidal marsh plants.
