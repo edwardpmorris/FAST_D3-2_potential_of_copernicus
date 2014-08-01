@@ -67,7 +67,7 @@ POSSIBLE OUTLETS:
 
 ## Author Information
 
-Edward P. Morris received his Ph.D. in oceanography and marine biology from the University of Groningen in 2005. His research interests include the interaction of coastal vegetation with Hydrodynamics and Earth Observation. Since 2014, he is employed as a post-doc in the EU-FP7 project "Foreshore Assessment using Space Technology" at the Univ. Cádiz, CEIMAR.
+Edward P. Morris received his Ph.D. in Oceanography and Marine Biology from the University of Groningen in 2005. His research interests include the interaction of coastal vegetation with Hydrodynamics and Earth Observation. Since 2014, he is employed as a Post-Doc in the EU-FP7 project "Foreshore Assessment using Space Technology" at the Univ. Cádiz, CEIMAR.
 
 Dr Jesus Gomez-Enri FILL IN BIO
 
@@ -116,6 +116,7 @@ Hence, assessing the risks and providing innovative solutions to mitigate exposu
 <!-- Projects looking at coastal protection/risk management --->
 In response, a number of international and national agencies have launched specific policy initiatives related to flood risks and coastal protection, including the United Nations Environment Program, World Bank, Federal Emergency Management Agency and The European Commission.
 In Europe, these have been shaped by projects such as Eurosion, Micore and THESEUS, to name but a few, and will continue to be developed by ongoing projects such as RISCKIT and PEARL. 
+
 However, none of these projects have been designed to harness the power of Copernicus, until now that is, Foreshore Assessment using Space Technology (FAST, http://www.fast-space-project.eu/) led Dr. Mindert de Vries of the Dutch independent institute for applied research Deltares, has the ambitious aim of developing down-stream services using Copernicus to support cost-effective, nature-based shoreline protection against flooding and erosion.
 
 ##  Down-stream services to support nature-based shoreline protection
@@ -136,10 +137,8 @@ Hence, although a large amount of information exists, translating this into a pr
 This is the essence of the proposed service FAST is developing, as explained by Mindert de Vries, Project Leader, "FAST aims to make it reliable and easy for end-users to include ecosystem engineering concepts into shoreline protection designs". 
 
 <!-- How will FAST develop this service? --->
-## The FAST approach
-To facilitate the widespread implementation nature-based shoreline protection however, we need to; 1) be able to understand the mechanisms by which different vegetation types interact with waves, storm surges and sediment dynamics  2) map in detail coastal habitats at the appropriate spatio-temporal scales, and 3) be able to easily include this information in flood defence schemes.
-
-How will the FAST consortium develop this service? The team, made up of experts in hydrodynamics, earth observation, coastal ecosystems, modelling and product development, have 3 major tasks to complete: 
+### The FAST approach
+How will the FAST consortium develop this service? Well to facilitate the widespread implementation nature-based shoreline protection, we need to; 1) be able to understand the mechanisms by which different vegetation types interact with waves, storm surges and sediment dynamics,  2) map in detail coastal habitats at the appropriate spatio-temporal scales, and 3) be able to easily include this information in flood defence schemes. Hence, the FAST team, made up of experts in hydrodynamics, earth observation, coastal ecosystems, modelling and product development, are focussing on 3 major tasks: 
 
 The biophysical characteristics of coastal wetlands need to be linked to wave attenuation, allowing standardised generic parameters to be used to predict the attenuation properties of different vegetated habitats. For this measurements of wave attenuation, led by Dr. Iris Möller, Univ. Cambridge, are being made in different marshes at case-study sites throughout Europe (UK, Spain, Romania and the Netherlands).
 
@@ -156,13 +155,13 @@ Key to this process is ensuring strong end-user involvement and a user-driven ap
 [Figure 2. Flow chart representing potential parameters derived from the Sentinels 1 and 2 for use in the development of the FAST down-stream service. Image: [van der Wal et al. 2014](http://rodin.uca.es/xmlui/handle/10498/16264)](figures/FAST_process_diagram.png)
 
 <!-- Who will benefit from Copernicus services in coastal zones? --->
-## Who will benifit?
+## Getting the most out of Copernicus
 The potential beneficiaries of Copernicus down-stream services tailored to coastal zones, such as the FAST service to aid nature-based shoreline protection, range from small to medium enterprises, such as consultancies and engineering firms, to environmental NGOs and governmental agencies.
 All of which stand to gain advantages in terms of cost-reductions and efficiency due to improvements in data gathering and decision making.
 Overall these benefits should be passed on to Citizens as increased value for money and improvements in safety and well being.
 However, importantly, as stated in the Copernicus mission brief by the European Parliament "Copernicus should be user-driven, thus requiring the continuous, effective involvement of users, particularly regarding the definition and validation of service requirements", hence to a large degree it is up to the user community to help define the services they want. 
 
-In the near future, growth in the availability of Earth Observation data is going to be exponential, thus potentially the only limit on accessing the vast potential of Copernicus to stimulate knowledge-based services in coastal zones, is the ingenuity of the Global Ocean Community. 
+In the near future, growth in the availability of Earth Observation data is going to be exponential, thus maybe the only limit on accessing the vast potential of Copernicus to stimulate knowledge-based services in coastal zones, is the ingenuity of the Global Ocean Community. 
 
 ## Acknowledgements
 Contributions to the conception and writing of this article are acknowledged from the FAST project team; Mindert de Vries, Bregje van Wesenbeeck, Myra van der Meulen, Gloria Peralta, ADD NAME HERE!
