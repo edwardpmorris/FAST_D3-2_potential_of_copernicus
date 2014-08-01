@@ -14,6 +14,6 @@ out_name <- paste("FAST_D3-2_v", vers,sep="")
 # render rport
 require(rmarkdown)
 # main text
-render(input="report/FAST_D3_2_Potential_of_Copernicus.Rmd", output_format="all", output_dir="../")
+render(input="report/FAST_D3_2_Potential_of_Copernicus_SeaTechnology.Rmd", output_format="all", output_dir="../")
 # figures
 render(input="report/FAST_D3_2_Potential_of_Copernicus_figures.Rmd", output_format="pdf_document", output_dir="../")

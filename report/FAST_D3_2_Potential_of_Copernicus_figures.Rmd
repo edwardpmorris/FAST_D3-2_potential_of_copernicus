@@ -7,6 +7,6 @@ output:
     fig_width: 4
 ---
 
-![The Sentinel missions mark a new era in Earth observation focusing on delivering a wealth of operational data for decades to come. The six different missions carry a range of state-of-the-art technologies to supply a stream of complementary imagery and data tailored to the needs of Europe’s environmental monitoring Copernicus programme. Copyright: [ESA](http://www.esa.int/spaceinimages/Images/2014/04/Sentinel_family)](../figures/Sentinel_family_ESA.jpg)
+![INFOGRAPHIC: Copernicus and its 5 Sentinels. Observing our planet for a safer world. The European Earth Observation Programme Copernicus provides geo-information products and services based on satellite imagery. Copyright: [© Airbus Defence and Space/ Astrium Gmbh | All Rights Reserved - Unauthorized use of this photo is strictly prohibited](https://www.flickr.com/photos/airbusgroup/13467814384/)](../figures/inforgraphic_copernicus_and_its_5_sentinels_AIRBUS.jpg)
 
 ![Flow chart representing potential parameters derived from the Sentinels 1 and 2 for use in the development of the FAST down-stream service. Image: [van der Wal et al. 2014](http://rodin.uca.es/xmlui/handle/10498/16264)](../figures/FAST_process_diagram.png)
