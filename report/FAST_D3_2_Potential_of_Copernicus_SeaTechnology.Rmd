@@ -1,7 +1,7 @@
 ---
-title: 'Copernicus Coastal Services: Supporting nature-based coastal protection'
+title: 'A new Copernicus downstream service supporting nature-based coastal protection'
 author: "Edward P. Morris, Jesus Gomez-Enri, Daphne van der Wal"
-date: '`r date()` version 0.5'
+date: '`r date()` version 0.6'
 output:
   pdf_document:
     includes:
@@ -31,70 +31,54 @@ geometry: margin=1in
                     from meeting 29/07                    
 
  EPM                Made version         0.5          2014-08-01
-                    for Sea Technology                                      
+                    for Sea Technology                          
+
+ EPM, DVN, JGE      Included comments    0.6          2014-08-07
+                    and new figures
 -----------------------------------------------------------------
   
 Table: Document change record
 
 ### Scope of document
-
-AIM:
-
-+ Generate interest in the Copernicus Earth Observation programme.
-+ Highlight it's potential for generating knowledge based services (Inspire).
-+ Introduce how Copernicus can aid coastal protection.
-+ Introduce the FAST project (Promote).
-
-TARGET AUDIENCE:
-
-+ Industry experts, public, scientists, managers and policy makers.
-
-NOTES:
-
-+ Relatively simple language
-+ Demonstration of concepts/potential
-+ Visually impacting graphics
-+ Approx. 2000 words
-+ Suitable for websites/blogs.
-
-POSSIBLE OUTLETS:
-
-+ [Sea Technology](https://www.sea-technology.com/), [Horizon Magazine](http://horizon-magazine.eu), [International Innovation](http://www.research-europe.com/index.php/international-innovation)
-
-+ Sea Technology: 3 authors, 1000-2000 words, technical professionals, up to 3 graphics, up to 5 references.
+This popular article aims to generate interest in the Copernicus Earth Observation programme and highlight it's potential for generating knowledge based services, particularily in coastal zones.
+The article outlines how Copernicus can aid coastal protection/risk assessment and goes on to give a practical example of how the EU project FAST (Foreshore Assessment using Space Technology) is developing down-stream services using Copernicus to support cost-effective, nature-based shoreline protection against flooding and erosion.
+It is hoped that the article may generate interest from possible end-users, particularily small-medium enterprises, which may be inspired to contribute to the FAST end-user consultation process.
+The article is intended for a wide audience including industry experts, scientists, managers, and policy makers.
+It is written using relatively simple language and should also be suitable for the general public.
+The intended outlets are a leading, global marine technical proffessional magazine, [Sea Technology](https://www.sea-technology.com/) and a pre-publication version for posting on the FAST website and distributing via Twitter.
 
 ---
 
 ## Author Information
 
-Edward P. Morris received his Ph.D. in Oceanography and Marine Biology from the University of Groningen in 2005. His research interests include the interaction of coastal vegetation with Hydrodynamics and Earth Observation. Since 2014, he is employed as a Post-Doc in the EU-FP7 project "Foreshore Assessment using Space Technology" at the Univ. Cádiz, CEIMAR.
+Edward P. Morris received his Ph.D. in Oceanography and Marine Biology from the University of Groningen in 2005. His research interests include the interaction of coastal vegetation with Hydrodynamics and Earth Observation. Since 2014, he is employed as a Post-Doc in the EU-FP7 project "Foreshore Assessment using Space Technology" at the Univ. Cádiz (Spain).
 
-Dr Jesus Gomez-Enri FILL IN BIO
+Jesus Gomez-Enri is an associate lecturer at the University of Cádiz (Spain). He received his Ph.D. in Marine Sciences from the University of Cádiz in 2002. His main research interest is Satellite Oceanography in coastal areas using Radar Altimetry and Synthetic Aperture Radar.
 
-Dr Daphene van der Wal FILL IN BIO
+Daphne van der Wal is a researcher at the Royal Netherlands Institute for Sea Research in Yerseke (Netherlands). She received her Ph.D. in Physical Geography from the University of Amsterdam in 1999. She uses remote sensing and GIS to further our understanding of coastal- estuarine ecology and morphology.
 
 ---
 
 <!-- Copernicus and coastal zones --->
-With an uncertain future that includes climate change, sea level rise and increasing coastal populations, being able to make informed policy decisions in coastal zones will be critical for ensuring the well-being of Citizens and the sustainability of economic activities.
-Europe's flagship Earth Observation (EO) programme known as Copernicus (http://www.copernicus.eu/, previously Global Monitoring for Environment and Security – GMES) is designed to help meet these needs and has a strong potential to benefit numerous sectors involved in marine and coastal activities.
+With an uncertain future that includes climate change, sea level rise and increasing coastal populations, being able to make informed policy decisions in coastal zones will be critical for ensuring the well-being of Citizens, the Environment and the sustainability of economic activities.
+Earth Observation (EO) can be used to efficiently and systematically provide the key information needed to make these decisions. 
+The launch in April 2014 of the first Sentinel satelite from Europe's flagship EO programme known as Copernicus represents a major advance in the availability of EO data that has a strong potential to benefit numerous sectors involved in marine and coastal activities.
 
 ## What is Copernicus?
 <!-- Define Copernicus --->
-Copernicus is an EU-led initiative in partnership with the European Space Agency (ESA) that aims to aid decision-making in a world facing increasing environmental and socio-economic pressures [@science_communication_unit_science_2013].
+Copernicus (previously Global Monitoring for Environment and Security – GMES) is an EU-led initiative in partnership with the European Space Agency (ESA) that aims to aid decision-making in a world facing increasing environmental and socio-economic pressures [@science_communication_unit_science_2013].
 <!-- Describe structure of Copernicus --->
 The programme includes observation satellites with missions observing land, atmospheric and oceanographic parameters.
 This space-component is comprised of ESA's five families of dedicated Sentinel and missions from other space agencies, called Contributing Missions.
 <!-- Sentinel data will be free. How can that be? --->
-In common with the NASA/USGS Landsat missions, access to Sentinel data is open, full and free to all without restrictions.
+In common with the NASA/USGS (U. S. Geological society) Landsat missions, access to Sentinel data is open, full and free to all without restrictions.
 This decision, very much appreciated by end-users, is part of the strategy designed to ensure the long term sustainability of Copernicus. 
-With the idea being that promoting reuse of data will generate new businesses and jobs, whilst providing consumers with more choice and more value for money.
+Reuse of data will generate new businesses and jobs, whilst providing consumers with more choice and value for money.
 
 [INFOGRAPHIC: Copernicus and its 5 Sentinels. Observing our planet for a safer world. The European Earth Observation Programme Copernicus provides geo-information products and services based on satellite imagery. Copyright: [© Airbus Defence and Space/ Astrium Gmbh | All Rights Reserved - Unauthorized use of this photo is strictly prohibited](https://www.flickr.com/photos/airbusgroup/13467814384/)](figures/inforgraphic_copernicus_and_its_5_sentinels_AIRBUS.jpg)
 
-Paramount to this strategy, Copernicus is more than just it's space component, it is solidly built upon three other equally  important pillars; in-situ measurements (ground-based and airborne data), data harmonization and standardization, and the provision of products and services to users.
-These general services, some of which are already operational or in the pre-operational stage, address six main thematic areas; land, marine, atmosphere, emergency management, security and climate change.
-In common to the development of all of the services is the concept of effective end-user involvement and continuous evolution, i.e., an approach similar to an "agile development process".  
+Paramount to this strategy, Copernicus is more than just it's space component. It is solidly built upon three other equally  important pillars; in-situ (ground-based and airborne) measurements, data harmonization and standardization, and the provision of products and services to users.
+These general services address six main thematic areas; land, marine, atmosphere, emergency management, security and climate change.  
 
 ## Towards innovative services tailored to coastal zones
 <!-- Copernicus generic services useful for coastal zones --->
@@ -156,6 +140,10 @@ Key to this process is ensuring strong end-user involvement and a user-driven ap
 
 <!-- Who will benefit from Copernicus services in coastal zones? --->
 ## Getting the most out of Copernicus
+
+In common to the development of all of the services is the concept of effective end-user involvement and continuous evolution, i.e., an approach similar to an "agile development process".
+
+
 The potential beneficiaries of Copernicus down-stream services tailored to coastal zones, such as the FAST service to aid nature-based shoreline protection, range from small to medium enterprises, such as consultancies and engineering firms, to environmental NGOs and governmental agencies.
 All of which stand to gain advantages in terms of cost-reductions and efficiency due to improvements in data gathering and decision making.
 Overall these benefits should be passed on to Citizens as increased value for money and improvements in safety and well being.
