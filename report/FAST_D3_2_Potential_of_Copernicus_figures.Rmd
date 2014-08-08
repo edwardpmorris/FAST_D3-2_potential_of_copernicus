@@ -7,6 +7,8 @@ output:
     fig_width: 4
 ---
 
-![INFOGRAPHIC: Copernicus and its 5 Sentinels. Observing our planet for a safer world. The European Earth Observation Programme Copernicus provides geo-information products and services based on satellite imagery. Copyright: [© Airbus Defence and Space/ Astrium Gmbh | All Rights Reserved - Unauthorized use of this photo is strictly prohibited](https://www.flickr.com/photos/airbusgroup/13467814384/)](../figures/inforgraphic_copernicus_and_its_5_sentinels_AIRBUS.jpg)
+![Copernicus and its 5 Sentinels. Source: [ESA](http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/)](../figures/Figure1_Paper.jpg)
 
-![Flow chart representing potential parameters derived from the Sentinels 1 and 2 for use in the development of the FAST down-stream service. Image: [van der Wal et al. 2014](http://rodin.uca.es/xmlui/handle/10498/16264)](../figures/FAST_process_diagram.png)
+![Saltmarsh vegetation providing protection against erosion of a dyke in the Netherlands. Image: Daphne van der Wal](../figures/Zuidgors_ZGBL010.jpg)
+
+![Flow chart representing potential parameters derived from the Sentinels 1 and 2 for use in the development of the FAST down-stream service. Image: [van der Wal et al. 2014](http://rodin.uca.es/xmlui/handle/10498/16264)](../figures/Sentinel_flowchart_Copernicus_20140806_withservices.png)
